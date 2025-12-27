@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/Untitled.png" alt="Portfolio banner">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/Untitled.png" 
+       alt="About me background" 
+       width="100%">
 </p>
 
 👋 Hey, I'm Anwesha
