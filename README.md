@@ -1,4 +1,44 @@
-## Hi there 👋
+👋 Hey, I'm Anwesha
+I’m a computer science student passionate about systems, AI, and building things that actually ship. Most of my time goes into operating systems, CPU scheduling, AI/ML-powered tools, and hardware–software integration.
+
+🌱 Currently learning: OS internals, networks, DBMS, and digital logic
+
+🧪 Working on: energy‑aware CPU schedulers, reconfigurable hardware, and accessibility‑focused AI projects
+
+💻 Love building: end‑to‑end apps (backend, frontend, and a bit of embedded) that solve real problems
+
+🤝 Open to: research collaborations, hackathons, and impactful student projects
+
+🔭 What I’m Building
+OS simulators for smarter, energy‑aware scheduling
+
+AI chatbots for legal rights and financial awareness for teens and young users
+
+Accessibility projects like image–audio captioning systems and IoT‑based smart inventory/monitoring tools
+
+🛠️ Tech I Use
+Languages: C, Python, JavaScript, SQL, a bit of Assembly
+
+Domains: Operating Systems, Systems Programming, DBMS, Networks, ML basics
+
+Tools: Linux, VS Code, Git/GitHub, Arduino/embedded boards, Next.js/Flask/Streamlit for full‑stack work
+
+📚 I Care About
+Systems research and performance optimization
+
+Energy efficiency and sustainable computing
+
+Accessibility and tech for social good
+
+Clear documentation, teaching, and making complex ideas intuitive
+
+📫 How to Reach Me
+Portfolio / projects: [insta:@anwesha_3811
+leetcode:https://leetcode.com/u/ANWESHA1111/]
+
+Email: [anweshamohapatra1531@gmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/anwesha-mohapatra-49b56932a/?trk=public_profile-settings_edit-profile-content]
 
 <!--
 **Anwesha11111/Anwesha11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
