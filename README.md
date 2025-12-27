@@ -3,6 +3,12 @@
        alt="About me background" 
        width="100%">
 </p>
+<div align="center">
+
+### 👋 Hey, I'm Anwesha
+Short intro line here.
+
+</div>
 
 👋 Hey, I'm Anwesha
 I’m a computer science student passionate about systems, AI, and building things that actually ship. Most of my time goes into operating systems, CPU scheduling, AI/ML-powered tools, and hardware–software integration.
