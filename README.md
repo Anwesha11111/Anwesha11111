@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/assets/profile-banner.png" alt="Portfolio banner">
+</p>
+
 👋 Hey, I'm Anwesha
 I’m a computer science student passionate about systems, AI, and building things that actually ship. Most of my time goes into operating systems, CPU scheduling, AI/ML-powered tools, and hardware–software integration.
 
@@ -22,6 +26,14 @@ Languages: C, Python, JavaScript, SQL, a bit of Assembly
 Domains: Operating Systems, Systems Programming, DBMS, Networks, ML basics
 
 Tools: Linux, VS Code, Git/GitHub, Arduino/embedded boards, Next.js/Flask/Streamlit for full‑stack work
+<div align="center">
+
+### 👋 Hey, I'm Anwesha
+
+💻 Systems & AI enthusiast · OS, CPU scheduling, hardware–software co-design  
+🌸 Building accessible, research‑driven tech with a touch of aesthetics  
+
+</div>
 
 📚 I Care About
 Systems research and performance optimization
