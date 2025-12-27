@@ -19,6 +19,10 @@ OS simulators for smarter, energy‑aware scheduling
 AI chatbots for legal rights and financial awareness for teens and young users
 
 Accessibility projects like image–audio captioning systems and IoT‑based smart inventory/monitoring tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/assets/pink-purple-bar.png" width="80%" alt="Accent bar">
+</p>
+
 
 🛠️ Tech I Use
 Languages: C, Python, JavaScript, SQL, a bit of Assembly
@@ -34,6 +38,10 @@ Tools: Linux, VS Code, Git/GitHub, Arduino/embedded boards, Next.js/Flask/Stream
 🌸 Building accessible, research‑driven tech with a touch of aesthetics  
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/assets/pink-purple-bar.png" width="80%" alt="Accent bar">
+</p>
+
 
 📚 I Care About
 Systems research and performance optimization
