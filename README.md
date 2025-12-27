@@ -2,15 +2,20 @@
   <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/Untitled.png" 
        alt="About me background" 
        width="100%">
-</p>
-<div align="center">
+  <div align="center">
 
 ### 👋 Hey, I'm Anwesha
 Short intro line here.
 
 </div>
 
-👋 Hey, I'm Anwesha
+</p>
+<div align="center">
+
+### 👋 Hey, I'm Anwesha
+
+</div>
+
 I’m a computer science student passionate about systems, AI, and building things that actually ship. Most of my time goes into operating systems, CPU scheduling, AI/ML-powered tools, and hardware–software integration.
 
 🌱 Currently learning: OS internals, networks, DBMS, and digital logic
@@ -59,7 +64,7 @@ Energy efficiency and sustainable computing
 Accessibility and tech for social good
 
 Clear documentation, teaching, and making complex ideas intuitive
-
+<div align="center">
 📫 How to Reach Me
 Portfolio / projects: [insta:@anwesha_3811
 leetcode:https://leetcode.com/u/ANWESHA1111/]
@@ -67,7 +72,7 @@ leetcode:https://leetcode.com/u/ANWESHA1111/]
 Email: [anweshamohapatra1531@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/anwesha-mohapatra-49b56932a/?trk=public_profile-settings_edit-profile-content]
-
+</div>
 <!--
 **Anwesha11111/Anwesha11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
