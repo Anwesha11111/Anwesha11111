@@ -60,7 +60,7 @@ Accessibility and tech for social good
 Clear documentation, teaching, and making complex ideas intuitive
 <div align="center">
 📫 How to Reach Me
-Portfolio / projects: [insta:@anwesha_3811
+Portfolio / projects: [insta:@anwesha_3811]
 leetcode:https://leetcode.com/u/ANWESHA1111/]
 
 Email: [anweshamohapatra1531@gmail.com]
