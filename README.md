@@ -28,7 +28,7 @@ AI chatbots for legal rights and financial awareness for teens and young users
 
 Accessibility projects like image–audio captioning systems and IoT‑based smart inventory/monitoring tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/assets/pink-purple-bar.png" width="80%" alt="Accent bar">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/paragraph-divider-15.png" width="80%" alt="Accent bar">
 </p>
 
 
@@ -47,9 +47,8 @@ Tools: Linux, VS Code, Git/GitHub, Arduino/embedded boards, Next.js/Flask/Stream
 
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/assets/pink-purple-bar.png" width="80%" alt="Accent bar">
+  <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/paragraph-divider-15.png" width="80%" alt="Accent bar">
 </p>
-
 
 📚 I Care About
 Systems research and performance optimization
