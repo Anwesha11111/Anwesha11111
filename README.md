@@ -1,13 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anwesha11111/Anwesha11111/main/Untitled.png" 
        alt="About me background" 
-       width="100%">
-  <div align="center">
-
-### 👋 Hey, I'm Anwesha
-Short intro line here.
-
-</div>
+       width="100%"
+    background-color="blue">
 
 </p>
 <div align="center">
