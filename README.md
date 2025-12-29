@@ -40,7 +40,7 @@ Domains: Operating Systems, Systems Programming, DBMS, Networks, ML basics
 Tools: Linux, VS Code, Git/GitHub, Arduino/embedded boards, Next.js/Flask/Streamlit for full‑stack work
 <div align="center">
 
-### 👋 Hey, I'm Anwesha
+
 
 💻 Systems & AI enthusiast · OS, CPU scheduling, hardware–software co-design  
 🌸 Building accessible, research‑driven tech with a touch of aesthetics  
