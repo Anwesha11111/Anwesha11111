@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20[ANWESHA]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Systems+Researcher+🔬;JEE+98.6%25ile+%7C+IEEE+Publications;Empowering+1000%2B+Students;Building+Next-Gen+Tech+Solutions" alt="Typing SVG" />
-
+<div align=center>
 <br>
 
 ```
@@ -309,4 +309,5 @@ Critical Thinking Olympiad
 
 ![Visitor Count](https://profile-counter.glitch.me/[username]/count.svg)
 
+</div>
 </div>
