@@ -5,14 +5,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Systems+Researcher+🔬;JEE+98.6%25ile+%7C+IEEE+Publications;Empowering+1000%2B+Students;Building+Next-Gen+Tech+Solutions" alt="Typing SVG" />
 
 <br>
-
+<div align=center>
 ```
+
 ┌─────────────────────────────────────────────────────────┐
 │  💡 Innovating at the Intersection of AI & Hardware    │
 │  🎓 B.E. CSE @ RVCE | 📍 French Rocks, Karnataka       │
 └─────────────────────────────────────────────────────────┘
-```
 
+```
+</div>
 [![GitHub followers](https://img.shields.io/github/followers/[username]?style=social)](https://github.com/[username])
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/[profile])
 [![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:[email])
