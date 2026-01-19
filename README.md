@@ -15,9 +15,9 @@
 
 ```
 
-[![GitHub followers](https://img.shields.io/github/followers/[username]?style=social)](https://github.com/[username])
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/[profile])
-[![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:[email])
+[![GitHub followers](https://img.shields.io/github/followers/Anwesha11111?style=social)](https://github.com/Anwesha11111)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-mohapatra-49b56932a/?trk=public_profile-settings_edit-profile-content)
+[![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anweshamohapatra1531@gmail.com)
 [![Location](https://img.shields.io/badge/📍-French%20Rocks%2C%20Karnataka-green?style=flat-square)]()
 
 </div>
@@ -279,11 +279,11 @@ Critical Thinking Olympiad
 
 ## 📊 **GitHub Analytics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anwesha11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwesha11111&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anwesha11111&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -297,8 +297,8 @@ Critical Thinking Olympiad
 
 ### 📬 **Get In Touch**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/[username])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/[profile])
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Anwesha11111)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anwesha-mohapatra-49b56932a/?trk=public_profile-settings_edit-profile-content)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[email])
 
 ---
@@ -307,7 +307,7 @@ Critical Thinking Olympiad
 
 **💙 Thanks for stopping by! Let's innovate together! 💙**
 
-![Visitor Count](https://profile-counter.glitch.me/[username]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Anwesha11111/count.svg)
 
 </div>
 </div>
