@@ -9,8 +9,9 @@
 ```
 
 ┌─────────────────────────────────────────────────────────┐
-│  💡 Innovating at the Intersection of AI & Hardware    │
-│  🎓 B.E. CSE @ RVCE | 📍 French Rocks, Karnataka       │
+│  💡 Innovating at the Intersection of AI & Hardware     │
+│  🎓 B.E. CSE @ RVCE | 📍 RVCE, Karnataka │ IIT Madras  |
+|                                             Data Science|
 └─────────────────────────────────────────────────────────┘
 
 ```
@@ -18,7 +19,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Anwesha11111?style=social)](https://github.com/Anwesha11111)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-mohapatra-49b56932a/?trk=public_profile-settings_edit-profile-content)
 [![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anweshamohapatra1531@gmail.com)
-[![Location](https://img.shields.io/badge/📍-French%20Rocks%2C%20Karnataka-green?style=flat-square)]()
+[![Location](https://img.shields.io/badge/📍-RVCE%2C%20Karnataka-green?style=flat-square)]()
 
 </div>
 
