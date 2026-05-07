@@ -11,7 +11,6 @@
 ┌─────────────────────────────────────────────────────────┐
 │  💡 Innovating at the Intersection of AI & Hardware     │
 │  🎓 B.E. CSE @ RVCE | 📍 RVCE, Karnataka │ IIT Madras  |
-|                                             Data Science|
 └─────────────────────────────────────────────────────────┘
 
 ```
